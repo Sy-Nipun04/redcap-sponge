@@ -1,6 +1,6 @@
 # Redcap Sponge 🧽
 
-A simple 2D platformer featuring a little sponge wearing a red cap on an adventure through dark, gloomy levels.
+A 2D Unity platformer game featuring a sponge with a red cap navigating through dark, atmospheric levels.
 
 ## About
 
@@ -15,7 +15,7 @@ Redcap Sponge is a fun learning project - a 2D platformer where you control a sm
 
 ## Controls
 
-- **WASD** - Movement (W/S for up/down, A/D for left/right)
+- **A and D** - Movement (A/D for moving left/right)
 - **Space** - Jump
 - **Wall Jumping** - Use movement keys (A/D) + Space while touching a wall to wall jump
 
